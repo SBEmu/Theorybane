@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Theorybane/static/css/main.d1b05096.chunk.css",
+    "main.css": "/Theorybane/static/css/main.05f762ba.chunk.css",
     "main.js": "/Theorybane/static/js/main.7bc64429.chunk.js",
     "main.js.map": "/Theorybane/static/js/main.7bc64429.chunk.js.map",
     "runtime-main.js": "/Theorybane/static/js/runtime-main.35dee0c6.js",
@@ -8,15 +8,15 @@
     "static/js/2.c1b0f19d.chunk.js": "/Theorybane/static/js/2.c1b0f19d.chunk.js",
     "static/js/2.c1b0f19d.chunk.js.map": "/Theorybane/static/js/2.c1b0f19d.chunk.js.map",
     "index.html": "/Theorybane/index.html",
-    "precache-manifest.21a1cecf5fc1397c6a77937d51a03a0b.js": "/Theorybane/precache-manifest.21a1cecf5fc1397c6a77937d51a03a0b.js",
+    "precache-manifest.9be54ff787b438266e044f0dc1648651.js": "/Theorybane/precache-manifest.9be54ff787b438266e044f0dc1648651.js",
     "service-worker.js": "/Theorybane/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/Theorybane/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.05f762ba.chunk.css.map": "/Theorybane/static/css/main.05f762ba.chunk.css.map",
     "static/js/2.c1b0f19d.chunk.js.LICENSE": "/Theorybane/static/js/2.c1b0f19d.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.35dee0c6.js",
     "static/js/2.c1b0f19d.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
+    "static/css/main.05f762ba.chunk.css",
     "static/js/main.7bc64429.chunk.js"
   ]
 }

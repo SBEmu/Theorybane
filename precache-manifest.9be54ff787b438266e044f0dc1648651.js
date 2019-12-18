@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e77a4abe765ae886bb811e4e8262dd0",
+    "revision": "1615fa40f53bf3e0392268c83201aa15",
     "url": "/Theorybane/index.html"
   },
   {
-    "revision": "e977e6675dc0926f093b",
-    "url": "/Theorybane/static/css/main.d1b05096.chunk.css"
+    "revision": "23a4cfb2f0973d421132",
+    "url": "/Theorybane/static/css/main.05f762ba.chunk.css"
   },
   {
     "revision": "7a074c448bfa7f5c5481",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Theorybane/static/js/2.c1b0f19d.chunk.js.LICENSE"
   },
   {
-    "revision": "e977e6675dc0926f093b",
+    "revision": "23a4cfb2f0973d421132",
     "url": "/Theorybane/static/js/main.7bc64429.chunk.js"
   },
   {
