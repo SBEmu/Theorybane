@@ -20,12 +20,14 @@ jobs:
         npm run build test
       env:
         CI: true
-    - name: Check for uncommitted changes
+    - name: Check for uncommitted changes and configure git
       run: |
         git add -N .
         if git diff --stat HEAD | grep -P . ; then
           echo "uncommitted changes detected, please npm run all and commit";
           exit 1;
         fi
+        git config user.name "Github CI"
+        git config user.email "Homicydal@users.noreply.github.com"
     - name: Publish site
       run: npm run deploy
