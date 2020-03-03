@@ -15,6 +15,7 @@ jobs:
         node-version: 12.x
     - name: npm install, build, and test
       run: |
+        npm config set @sbemu:registry https://npm.pkg.github.com/
         npm ci
         npm run build test
       env:
