@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Theorybane/precache-manifest.9be54ff787b438266e044f0dc1648651.js"
+  "/Theorybane/precache-manifest.a488ecbdc3630ba53c0e3feed97ae1f9.js"
 );
 
 self.addEventListener('message', (event) => {
