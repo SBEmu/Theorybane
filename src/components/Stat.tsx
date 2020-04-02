@@ -17,10 +17,10 @@ export class Stat extends Component<Props> {
         return (
             <div>{this.props.name}:
                 &nbsp;{this.props.amount}/{this.props.maxAmount} ({this.props.amount})&nbsp;
-                <button onClick={this.props.onAdd}>🔼</button>
-                <button onClick={this.props.onSubtract}>🔽</button>
-                <button onClick={this.props.onMax}>⏫</button>
-                <button onClick={this.props.onMin}>⏬</button>
+                <button onClick={this.props.onAdd}><span role="img" aria-label="add">🔼</span></button>
+                <button onClick={this.props.onSubtract}><span role="img" aria-label="subtract">🔽</span></button>
+                <button onClick={this.props.onMax}><span role="img" aria-label="maximize">⏫</span></button>
+                <button onClick={this.props.onMin}><span role="img" aria-label="minimize">⏬</span></button>
             </div>)
     }
 }
